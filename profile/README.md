@@ -25,7 +25,8 @@ The project started as reverse engineering research targeting legacy Harman QNX-
 ## Planned
 
 * modular core framework (HMI replacement) (work in progress)
-* DBus documentation
+* improved boot / recovery / updating
+* DBus documentation (work in progress)
 * Lua API documentation
 
 ---
